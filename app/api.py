@@ -14,7 +14,7 @@ models = joblib.load(ruta_modelos)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://cristianclc.github.io"],  
+    allow_origins=["https://cristianclc.github.io"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
