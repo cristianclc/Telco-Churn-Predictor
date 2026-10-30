@@ -7,7 +7,7 @@
 
 Sistema de Machine Learning de punta a punta para predecir el abandono de clientes (*churn*) en una empresa de telecomunicaciones: desde el análisis exploratorio y la comparación de cuatro modelos de *gradient boosting* y *bagging*, hasta su despliegue como API REST en la nube con una interfaz web pública.
 
-**Demo en vivo:** [cristianclc.github.io/telco-churn-predictor](https://cristianclc.github.io/telco-churn-predictor/)
+**Demo en vivo:** [cristianclc.github.io/telco-churn-predictor](https://cristianclc.github.io/Telco-Churn-Predictor/)
 
 ---
 
